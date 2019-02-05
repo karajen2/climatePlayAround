@@ -1,0 +1,15 @@
+c:\users\asdf\source\repos\Climate\Climate\bin\Debug\Climate.exe.config
+c:\users\asdf\source\repos\Climate\Climate\bin\Debug\Climate.exe
+c:\users\asdf\source\repos\Climate\Climate\bin\Debug\Climate.pdb
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\Climate.csprojResolveAssemblyReference.cache
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\MainWindow.g.cs
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\App.g.cs
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\Climate_MarkupCompile.cache
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\Climate_MarkupCompile.lref
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\MainWindow.baml
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\Climate.g.resources
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\Climate.Properties.Resources.resources
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\Climate.csproj.GenerateResource.Cache
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\Climate.csproj.CoreCompileInputs.cache
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\Climate.exe
+c:\users\asdf\source\repos\Climate\Climate\obj\Debug\Climate.pdb
